@@ -11,3 +11,4 @@ In addition to the README you're reading right now, this repo includes other REA
 - [Rest and Speard/README.md](Rest_and_Speard/README.md)
 - [Object Literal/README.md](Object_Literal/README.md)
 - [Optional Chaining/README.md](Optional_Chaining/README.md)
+- [Maps/README.md](maps/README.md)
